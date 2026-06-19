@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/Achsah156 -->
 
-<h2>Hi, I'm Achsah 👋</h2>
+<h2>Hi, I'm Achsah Grace 👋</h2>
 
 <p>
   Software developer building at the intersection of <strong>AI, healthcare, and intelligent automation</strong>.<br>
