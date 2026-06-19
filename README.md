@@ -33,7 +33,7 @@
 
 ### 💡 A bit about me
 
-- 🎓 CS student passionate about building impactful, real-world solutions
+- 🎓 ECE student passionate about building impactful, real-world solutions
 - 🧩 Comfortable across the full stack — from data pipelines to polished UIs
 - 🏥 Interested in healthcare AI, bioinformatics, and enterprise automation
 - 🤝 Open to **internships**, research roles, and collaborative projects
